@@ -15,6 +15,8 @@ Je travaille principalement sur des projets web, backend, data et SaaS, avec une
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Frontend
 
@@ -29,7 +31,6 @@ Je travaille principalement sur des projets web, backend, data et SaaS, avec une
 
 ### Data, IA & automatisation
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
 ![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
@@ -97,3 +98,4 @@ Web app d’aide à la recherche d’alternance, stage et emploi, intégrant :
 [![GitHub](https://img.shields.io/badge/GitHub-FCiraci-181717?style=for-the-badge&logo=github)](https://github.com/FCiraci)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Furkan_Ciraci-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkan-ciraci/)
 [![Email](https://img.shields.io/badge/Email-furkan.ciraci%40icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkan.ciraci@icloud.com)
+furkan.ciraci@icloud.com
