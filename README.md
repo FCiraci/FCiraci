@@ -64,7 +64,7 @@ Je travaille principalement sur des projets web, backend, data et SaaS, avec une
 
 ## 🚀 Atarax IT
 
-Je suis fondateur de **Atarax IT**, une entreprise d’édition de logiciels spécialisée dans le développement de solutions SaaS.
+Je suis co-fondateur de **Atarax IT**, une entreprise d’édition de logiciels spécialisée dans le développement de solutions SaaS.
 
 ### Produits développés
 
