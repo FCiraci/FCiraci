@@ -98,4 +98,3 @@ Web app d’aide à la recherche d’alternance, stage et emploi, intégrant :
 [![GitHub](https://img.shields.io/badge/GitHub-FCiraci-181717?style=for-the-badge&logo=github)](https://github.com/FCiraci)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Furkan_Ciraci-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkan-ciraci/)
 [![Email](https://img.shields.io/badge/Email-furkan.ciraci%40icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkan.ciraci@icloud.com)
-furkan.ciraci@icloud.com
